@@ -1,0 +1,15 @@
+C:\Users\kapla\source\repos\examples\LambdaExpAndDelegates\bin\Release\net6.0\LambdaExpAndDelegates.exe
+C:\Users\kapla\source\repos\examples\LambdaExpAndDelegates\bin\Release\net6.0\LambdaExpAndDelegates.deps.json
+C:\Users\kapla\source\repos\examples\LambdaExpAndDelegates\bin\Release\net6.0\LambdaExpAndDelegates.runtimeconfig.json
+C:\Users\kapla\source\repos\examples\LambdaExpAndDelegates\bin\Release\net6.0\LambdaExpAndDelegates.dll
+C:\Users\kapla\source\repos\examples\LambdaExpAndDelegates\bin\Release\net6.0\LambdaExpAndDelegates.pdb
+C:\Users\kapla\source\repos\examples\LambdaExpAndDelegates\obj\Release\net6.0\LambdaExpAndDelegates.csproj.AssemblyReference.cache
+C:\Users\kapla\source\repos\examples\LambdaExpAndDelegates\obj\Release\net6.0\LambdaExpAndDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kapla\source\repos\examples\LambdaExpAndDelegates\obj\Release\net6.0\LambdaExpAndDelegates.AssemblyInfoInputs.cache
+C:\Users\kapla\source\repos\examples\LambdaExpAndDelegates\obj\Release\net6.0\LambdaExpAndDelegates.AssemblyInfo.cs
+C:\Users\kapla\source\repos\examples\LambdaExpAndDelegates\obj\Release\net6.0\LambdaExpAndDelegates.csproj.CoreCompileInputs.cache
+C:\Users\kapla\source\repos\examples\LambdaExpAndDelegates\obj\Release\net6.0\LambdaExpAndDelegates.dll
+C:\Users\kapla\source\repos\examples\LambdaExpAndDelegates\obj\Release\net6.0\refint\LambdaExpAndDelegates.dll
+C:\Users\kapla\source\repos\examples\LambdaExpAndDelegates\obj\Release\net6.0\LambdaExpAndDelegates.pdb
+C:\Users\kapla\source\repos\examples\LambdaExpAndDelegates\obj\Release\net6.0\LambdaExpAndDelegates.genruntimeconfig.cache
+C:\Users\kapla\source\repos\examples\LambdaExpAndDelegates\obj\Release\net6.0\ref\LambdaExpAndDelegates.dll

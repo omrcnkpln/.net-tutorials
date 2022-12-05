@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "LambdaExpAndDelegates": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

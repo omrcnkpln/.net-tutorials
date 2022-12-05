@@ -1,0 +1,16 @@
+{
+  "profiles": {
+    "Docker Compose": {
+      "commandName": "DockerCompose",
+      "commandVersion": "1.0",
+      "composeLaunchAction": "LaunchBrowser",
+      "composeLaunchServiceName": "test.mvc",
+      "composeLaunchUrl": "{Scheme}://localhost:{ServicePort}",
+      "serviceActions": {
+        "nginx-server": "StartWithoutDebugging",
+        "test.mvc": "StartDebugging",
+        "test2.mvc": "StartDebugging"
+      }
+    }
+  }
+}

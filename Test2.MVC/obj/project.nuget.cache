@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zgizgGm31dK+Nr0u/I/3JKSfUTeCdVIDZM47pIjWID7KxdQBdJhdHd/cQy0zbDkez4uTmwkP5LAAWkyXnOVypA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kapla\\source\\repos\\examples\\Test2.MVC\\Test2.MVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kapla\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "zb9ny+nLaknaq3etn+0my2K5WKRYwyWqJqjOF1owOBl5jSBuPXWokblfxZHDqI47yA8dA9r33AbwUwl8Uuf1ww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kapla\\source\\repos\\examples\\FileUpload-gRPCClient\\FileUpload-gRPCClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kapla\\.nuget\\packages\\google.protobuf\\3.21.2\\google.protobuf.3.21.2.nupkg.sha512",
+    "C:\\Users\\kapla\\.nuget\\packages\\grpc.core.api\\2.47.0-pre1\\grpc.core.api.2.47.0-pre1.nupkg.sha512",
+    "C:\\Users\\kapla\\.nuget\\packages\\grpc.net.client\\2.47.0-pre1\\grpc.net.client.2.47.0-pre1.nupkg.sha512",
+    "C:\\Users\\kapla\\.nuget\\packages\\grpc.net.common\\2.47.0-pre1\\grpc.net.common.2.47.0-pre1.nupkg.sha512",
+    "C:\\Users\\kapla\\.nuget\\packages\\grpc.tools\\2.47.0\\grpc.tools.2.47.0.nupkg.sha512",
+    "C:\\Users\\kapla\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\kapla\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

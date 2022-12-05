@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E4WwQFJz5iR8DqvDEfn+oG2hpb7ghrohZFcc0DXuFcdPMsx+59dvUFYTUVV1WLS/53Sjaem49FQmz4yRg4zlZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kapla\\source\\repos\\examples\\LambdaExpAndDelegates\\LambdaExpAndDelegates.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kapla\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,57 @@
+version: '3.4'
+
+services:
+  nginx-server:
+    container_name: NginxServerTest
+    image: nginx
+    ports:
+     - "4141:4141"
+    #depends_on:
+    # - mpc-service
+      #- react-ui
+    environment:
+     - TZ=Europe/Istanbul
+     - NGINX_HOST=esmango.com
+     - NGINX_PORT=8080 ssl
+    volumes:
+     - ./nginx/nginx.conf:/etc/nginx/nginx.conf
+    command: [nginx-debug, '-g', 'daemon off;'] # For debug mode   
+    #secrets:
+    #  - source: nginx-cert
+    #    target: /etc/nginx/ssl/
+
+  test.mvc:
+    container_name: TestMVCTest
+    image: ${DOCKER_REGISTRY-}testmvc
+    ports:
+      - "5273"
+      - "7273"
+    build:
+      context: .
+      dockerfile: Test.MVC/Dockerfile
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_HTTPS_PORT=7273
+      - ASPNETCORE_URLS=https://+:7273;http://+:5273
+    
+    volumes:
+      - ${APPDATA}/Microsoft/UserSecrets:/root/.microsoft/usersecrets:ro
+      - ${APPDATA}/ASP.NET/Https:/root/.aspnet/https:ro
+
+  test2.mvc:
+    container_name: Test2MVCTest
+    image: ${DOCKER_REGISTRY-}test2mvc
+    ports:
+      - "5072"
+      - "7072"
+    build:
+      context: .
+      dockerfile: Test2.MVC/Dockerfile
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_HTTPS_PORT=7072
+      - ASPNETCORE_URLS=https://+:7072;http://+:5072
+    
+    volumes:
+      - ${APPDATA}/Microsoft/UserSecrets:/root/.microsoft/usersecrets:ro
+      - ${APPDATA}/ASP.NET/Https:/root/.aspnet/https:ro

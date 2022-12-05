@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "k6qWc8tnTzwsgxybSPmkwFg5JERVaQ72Zs6e+OoSiZ4=",
+  "Source": "FileUpload-gRPCServer",
+  "BasePath": "_content/FileUpload-gRPCServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FileUpload-gRPCServer\\wwwroot",
+      "Source": "FileUpload-gRPCServer",
+      "ContentRoot": "C:\\Users\\kapla\\source\\repos\\examples\\FileUpload-gRPCServer\\wwwroot\\",
+      "BasePath": "_content/FileUpload-gRPCServer",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\kapla\\source\\repos\\examples\\FileUpload-gRPCServer\\wwwroot\\Files\\nihat-kumas.mp3",
+      "SourceId": "FileUpload-gRPCServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kapla\\source\\repos\\examples\\FileUpload-gRPCServer\\wwwroot\\",
+      "BasePath": "_content/FileUpload-gRPCServer",
+      "RelativePath": "Files/nihat-kumas.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\nihat-kumas.mp3"
+    }
+  ]
+}
