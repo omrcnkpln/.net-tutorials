@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "dWDwwH9buCulXn2xo4LeKvME1mmmR/BqcoCsOsUHJ5UCSanVa8ys+849VryFIr+ood3KrKTIqDrVZ3Wsbn6Ynw==",
+  "dgSpecHash": "agBkBCad+YNVeWpkMsTQiLQMFOvSvWgUl7hzcOJE3R8Z2J62VBNCWn6oN3qcGSxOCHrW/nCua0IxsAKC7c/l1g==",
   "success": true,
   "projectFilePath": "C:\\Users\\kapla\\source\\repos\\examples\\gRPCClient\\gRPCClient.csproj",
   "expectedPackageFiles": [

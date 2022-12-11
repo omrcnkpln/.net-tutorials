@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "rqGZZaHCjEX2B+td2+t8wkGI7v1Hv4uwdMvFdIXQA2/JXiUUTxYVJF1ApYA/F+U5S/TITZv0F9BOLIQrFgdpXA==",
+  "dgSpecHash": "ymTqc11quSFnR1JnanMJk2h+jZxPxCoPmhno3CSrVpXfVTZLptz1qsnzdGCdvhbG6UUxuAQ2FUXqI+iZywcqgQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\kapla\\source\\repos\\examples\\gRPCServer\\gRPCServer.csproj",
   "expectedPackageFiles": [

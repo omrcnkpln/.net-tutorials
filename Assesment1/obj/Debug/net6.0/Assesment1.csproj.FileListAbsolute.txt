@@ -1,0 +1,15 @@
+C:\Users\kapla\source\repos\examples\Assesment1\bin\Debug\net6.0\Assesment1.exe
+C:\Users\kapla\source\repos\examples\Assesment1\bin\Debug\net6.0\Assesment1.deps.json
+C:\Users\kapla\source\repos\examples\Assesment1\bin\Debug\net6.0\Assesment1.runtimeconfig.json
+C:\Users\kapla\source\repos\examples\Assesment1\bin\Debug\net6.0\Assesment1.dll
+C:\Users\kapla\source\repos\examples\Assesment1\bin\Debug\net6.0\Assesment1.pdb
+C:\Users\kapla\source\repos\examples\Assesment1\obj\Debug\net6.0\Assesment1.csproj.AssemblyReference.cache
+C:\Users\kapla\source\repos\examples\Assesment1\obj\Debug\net6.0\Assesment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kapla\source\repos\examples\Assesment1\obj\Debug\net6.0\Assesment1.AssemblyInfoInputs.cache
+C:\Users\kapla\source\repos\examples\Assesment1\obj\Debug\net6.0\Assesment1.AssemblyInfo.cs
+C:\Users\kapla\source\repos\examples\Assesment1\obj\Debug\net6.0\Assesment1.csproj.CoreCompileInputs.cache
+C:\Users\kapla\source\repos\examples\Assesment1\obj\Debug\net6.0\Assesment1.dll
+C:\Users\kapla\source\repos\examples\Assesment1\obj\Debug\net6.0\refint\Assesment1.dll
+C:\Users\kapla\source\repos\examples\Assesment1\obj\Debug\net6.0\Assesment1.pdb
+C:\Users\kapla\source\repos\examples\Assesment1\obj\Debug\net6.0\Assesment1.genruntimeconfig.cache
+C:\Users\kapla\source\repos\examples\Assesment1\obj\Debug\net6.0\ref\Assesment1.dll
